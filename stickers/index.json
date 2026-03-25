@@ -1,0 +1,1831 @@
+{
+  "stickers": [
+    {
+      "id": "stk_001",
+      "file": "playful_cat_wait_reply_01.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "等回复",
+        "催消息",
+        "在吗"
+      ],
+      "scene": [
+        "对方不回消息",
+        "等待回复"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪等回复"
+    },
+    {
+      "id": "stk_002",
+      "file": "playful_cat_miss_you_02.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "想你",
+        "撒娇",
+        "粘人"
+      ],
+      "scene": [
+        "表达想念",
+        "撒娇"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪想你"
+    },
+    {
+      "id": "stk_003",
+      "file": "playful_cat_angry_cute_03.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "生气",
+        "可爱",
+        "哼"
+      ],
+      "scene": [
+        "假装生气",
+        "撒娇"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪假装生气"
+    },
+    {
+      "id": "stk_004",
+      "file": "playful_cat_pout_04.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "委屈",
+        "嘟嘴",
+        "不开心"
+      ],
+      "scene": [
+        "表达委屈",
+        "撒娇"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嘟嘴"
+    },
+    {
+      "id": "stk_005",
+      "file": "playful_cat_sulk_05.jpg",
+      "emotion": "playful",
+      "intensity": "light",
+      "tags": [
+        "闷闷不乐",
+        "无聊",
+        "叹气"
+      ],
+      "scene": [
+        "无聊",
+        "等人"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪闷闷不乐"
+    },
+    {
+      "id": "stk_006",
+      "file": "playful_cat_demand_reply_06.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "催回复",
+        "快回",
+        "着急"
+      ],
+      "scene": [
+        "催对方回消息"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪催回复"
+    },
+    {
+      "id": "stk_007",
+      "file": "playful_cat_stare_07.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "盯着你",
+        "看你",
+        "凝视"
+      ],
+      "scene": [
+        "质疑",
+        "好奇",
+        "盯着看"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪盯着你看"
+    },
+    {
+      "id": "stk_008",
+      "file": "playful_cat_peek_08.jpg",
+      "emotion": "playful",
+      "intensity": "light",
+      "tags": [
+        "偷看",
+        "好奇",
+        "八卦"
+      ],
+      "scene": [
+        "偷偷关注",
+        "好奇"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪偷看"
+    },
+    {
+      "id": "stk_009",
+      "file": "playful_cat_cry_cute_09.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "哭",
+        "委屈",
+        "可怜"
+      ],
+      "scene": [
+        "装可怜",
+        "求安慰"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪卖萌哭"
+    },
+    {
+      "id": "stk_010",
+      "file": "playful_kitten_sass_10.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "傲娇",
+        "嘚瑟",
+        "得意"
+      ],
+      "scene": [
+        "得意",
+        "嘚瑟"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫傲娇"
+    },
+    {
+      "id": "stk_011",
+      "file": "playful_kitten_judge_11.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "审视",
+        "无语",
+        "服了"
+      ],
+      "scene": [
+        "无语",
+        "吐槽"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫审视你"
+    },
+    {
+      "id": "stk_012",
+      "file": "playful_kitten_side_eye_12.jpg",
+      "emotion": "playful",
+      "intensity": "light",
+      "tags": [
+        "斜眼",
+        "白眼",
+        "嫌弃"
+      ],
+      "scene": [
+        "嫌弃",
+        "吐槽",
+        "白眼"
+      ],
+      "reply_mode": "either",
+      "description": "奶猫白眼"
+    },
+    {
+      "id": "stk_013",
+      "file": "playful_cat_naughty_13.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "调皮",
+        "坏笑",
+        "搞事"
+      ],
+      "scene": [
+        "调皮",
+        "搞事情"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪调皮"
+    },
+    {
+      "id": "stk_014",
+      "file": "playful_cat_tease_14.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "逗你",
+        "嘿嘿",
+        "调戏"
+      ],
+      "scene": [
+        "逗对方",
+        "开玩笑"
+      ],
+      "reply_mode": "with_text",
+      "description": "猫咪逗你"
+    },
+    {
+      "id": "stk_015",
+      "file": "playful_cat_smirk_15.jpg",
+      "emotion": "playful",
+      "intensity": "light",
+      "tags": [
+        "坏笑",
+        "偷笑",
+        "阴谋"
+      ],
+      "scene": [
+        "坏笑",
+        "计划什么"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪坏笑"
+    },
+    {
+      "id": "stk_016",
+      "file": "playful_cat_whatever_16.jpg",
+      "emotion": "playful",
+      "intensity": "light",
+      "tags": [
+        "无所谓",
+        "随便",
+        "摊手"
+      ],
+      "scene": [
+        "无所谓",
+        "随便吧"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪无所谓"
+    },
+    {
+      "id": "stk_017",
+      "file": "playful_cat_sly_17.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "狡猾",
+        "鬼主意",
+        "嘻嘻"
+      ],
+      "scene": [
+        "有主意",
+        "狡猾"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪狡猾笑"
+    },
+    {
+      "id": "stk_018",
+      "file": "positive_kitten_cute_face_01.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "可爱",
+        "萌",
+        "乖"
+      ],
+      "scene": [
+        "打招呼",
+        "日常"
+      ],
+      "reply_mode": "either",
+      "description": "奶猫卖萌"
+    },
+    {
+      "id": "stk_019",
+      "file": "positive_kitten_smile_02.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "开心",
+        "笑",
+        "高兴"
+      ],
+      "scene": [
+        "开心",
+        "好消息"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫微笑"
+    },
+    {
+      "id": "stk_020",
+      "file": "positive_kitten_happy_03.jpg",
+      "emotion": "positive",
+      "intensity": "strong",
+      "tags": [
+        "超开心",
+        "耶",
+        "太棒了"
+      ],
+      "scene": [
+        "非常开心",
+        "庆祝"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫超开心"
+    },
+    {
+      "id": "stk_021",
+      "file": "positive_kitten_wink_04.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "眨眼",
+        "调皮",
+        "好的"
+      ],
+      "scene": [
+        "确认",
+        "表示知道了"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫眨眼"
+    },
+    {
+      "id": "stk_022",
+      "file": "positive_kitten_blush_05.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "害羞",
+        "脸红",
+        "谢谢"
+      ],
+      "scene": [
+        "被夸",
+        "害羞",
+        "感谢"
+      ],
+      "reply_mode": "either",
+      "description": "奶猫害羞"
+    },
+    {
+      "id": "stk_023",
+      "file": "positive_kitten_love_06.jpg",
+      "emotion": "positive",
+      "intensity": "strong",
+      "tags": [
+        "爱你",
+        "比心",
+        "喜欢"
+      ],
+      "scene": [
+        "表达喜欢",
+        "感谢",
+        "爱"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫比心"
+    },
+    {
+      "id": "stk_024",
+      "file": "positive_kitten_cheeky_07.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "嘿嘿",
+        "得意",
+        "小聪明"
+      ],
+      "scene": [
+        "得意",
+        "小成就"
+      ],
+      "reply_mode": "either",
+      "description": "奶猫嘿嘿笑"
+    },
+    {
+      "id": "stk_025",
+      "file": "positive_kitten_sleepy_08.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "困了",
+        "晚安",
+        "睡觉"
+      ],
+      "scene": [
+        "晚安",
+        "累了",
+        "困了"
+      ],
+      "reply_mode": "solo",
+      "description": "奶猫困了"
+    },
+    {
+      "id": "stk_026",
+      "file": "positive_kitten_shy_09.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "害羞",
+        "不好意思",
+        "腼腆"
+      ],
+      "scene": [
+        "害羞",
+        "不好意思"
+      ],
+      "reply_mode": "either",
+      "description": "奶猫腼腆"
+    },
+    {
+      "id": "stk_027",
+      "file": "positive_cat_hello_10.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "你好",
+        "嗨",
+        "打招呼"
+      ],
+      "scene": [
+        "打招呼",
+        "开场"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪打招呼"
+    },
+    {
+      "id": "stk_028",
+      "file": "positive_cat_thumbsup_11.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "好的",
+        "收到",
+        "赞"
+      ],
+      "scene": [
+        "确认",
+        "同意",
+        "点赞"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪点赞"
+    },
+    {
+      "id": "stk_029",
+      "file": "positive_cat_heart_12.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "爱心",
+        "喜欢",
+        "暖"
+      ],
+      "scene": [
+        "表达好感",
+        "温暖"
+      ],
+      "reply_mode": "with_text",
+      "description": "猫咪爱心"
+    },
+    {
+      "id": "stk_030",
+      "file": "positive_cat_sweet_13.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "甜",
+        "温柔",
+        "乖巧"
+      ],
+      "scene": [
+        "温柔回复",
+        "安慰"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪甜甜"
+    },
+    {
+      "id": "stk_031",
+      "file": "positive_cat_goodnight_14.jpg",
+      "emotion": "positive",
+      "intensity": "light",
+      "tags": [
+        "晚安",
+        "拜拜",
+        "再见"
+      ],
+      "scene": [
+        "道别",
+        "晚安"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪晚安"
+    },
+    {
+      "id": "stk_032",
+      "file": "positive_cat_hug_15.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "抱抱",
+        "安慰",
+        "拥抱"
+      ],
+      "scene": [
+        "安慰",
+        "关心",
+        "表达温暖"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪抱抱"
+    },
+    {
+      "id": "stk_033",
+      "file": "positive_cat_cheer_16.jpg",
+      "emotion": "positive",
+      "intensity": "strong",
+      "tags": [
+        "加油",
+        "鼓励",
+        "你行的"
+      ],
+      "scene": [
+        "鼓励",
+        "打气",
+        "加油"
+      ],
+      "reply_mode": "with_text",
+      "description": "猫咪加油"
+    },
+    {
+      "id": "stk_034",
+      "file": "playful_cat_food_pun_stk_034.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "食物",
+        "搞笑"
+      ],
+      "scene": [
+        "玩梗",
+        "逗人开心"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗1"
+    },
+    {
+      "id": "stk_035",
+      "file": "playful_cat_food_joke_stk_035.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "搞怪",
+        "吃货"
+      ],
+      "scene": [
+        "开玩笑",
+        "聊美食"
+      ],
+      "reply_mode": "either",
+      "description": "小猫食物谐音梗2"
+    },
+    {
+      "id": "stk_036",
+      "file": "playful_cat_food_gag_stk_036.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "冷笑话",
+        "猫咪"
+      ],
+      "scene": [
+        "冷笑话",
+        "活跃气氛"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗3"
+    },
+    {
+      "id": "stk_037",
+      "file": "playful_cat_food_wit_stk_037.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "谐音梗",
+        "机智",
+        "搞笑猫"
+      ],
+      "scene": [
+        "斗图",
+        "搞笑回复"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗4"
+    },
+    {
+      "id": "stk_038",
+      "file": "playful_cat_food_laugh_stk_038.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "好笑",
+        "表情包"
+      ],
+      "scene": [
+        "逗乐",
+        "分享搞笑"
+      ],
+      "reply_mode": "either",
+      "description": "小猫食物谐音梗5"
+    },
+    {
+      "id": "stk_039",
+      "file": "playful_cat_food_meme_stk_039.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "梗图",
+        "吃货猫"
+      ],
+      "scene": [
+        "发梗图",
+        "日常搞笑"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗6"
+    },
+    {
+      "id": "stk_040",
+      "file": "playful_cat_food_silly_stk_040.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "谐音梗",
+        "沙雕",
+        "魔性"
+      ],
+      "scene": [
+        "沙雕聊天",
+        "魔性表情"
+      ],
+      "reply_mode": "either",
+      "description": "小猫食物谐音梗7"
+    },
+    {
+      "id": "stk_041",
+      "file": "playful_cat_food_tease_stk_041.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "逗你",
+        "美食猫"
+      ],
+      "scene": [
+        "逗朋友",
+        "美食话题"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗8"
+    },
+    {
+      "id": "stk_042",
+      "file": "playful_cat_food_cute_stk_042.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "可爱",
+        "萌猫"
+      ],
+      "scene": [
+        "卖萌",
+        "搞笑卖萌"
+      ],
+      "reply_mode": "either",
+      "description": "小猫食物谐音梗9"
+    },
+    {
+      "id": "stk_043",
+      "file": "playful_cat_food_fun_stk_043.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "谐音梗",
+        "有趣",
+        "快乐猫"
+      ],
+      "scene": [
+        "聊天开心",
+        "活跃话题"
+      ],
+      "reply_mode": "solo",
+      "description": "小猫食物谐音梗10"
+    },
+    {
+      "id": "stk_044",
+      "file": "negative_cat_stinky_feet_stk_044.jpg",
+      "emotion": "negative",
+      "intensity": "strong",
+      "tags": [
+        "嫌弃",
+        "臭脚",
+        "愤怒"
+      ],
+      "scene": [
+        "表达嫌弃",
+        "被惹怒"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嫌弃臭脚脸1"
+    },
+    {
+      "id": "stk_045",
+      "file": "negative_cat_annoyed_face_stk_045.jpg",
+      "emotion": "negative",
+      "intensity": "strong",
+      "tags": [
+        "烦躁",
+        "不爽",
+        "生气猫"
+      ],
+      "scene": [
+        "表达不满",
+        "被烦到"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嫌弃臭脚脸2"
+    },
+    {
+      "id": "stk_046",
+      "file": "negative_cat_disgust_stk_046.jpg",
+      "emotion": "negative",
+      "intensity": "medium",
+      "tags": [
+        "嫌弃",
+        "厌恶",
+        "皱眉"
+      ],
+      "scene": [
+        "嫌弃某事",
+        "表达厌恶"
+      ],
+      "reply_mode": "either",
+      "description": "猫咪嫌弃臭脚脸3"
+    },
+    {
+      "id": "stk_047",
+      "file": "negative_cat_angry_glare_stk_047.jpg",
+      "emotion": "negative",
+      "intensity": "strong",
+      "tags": [
+        "怒视",
+        "生气",
+        "凶"
+      ],
+      "scene": [
+        "生气",
+        "警告对方"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嫌弃臭脚脸4"
+    },
+    {
+      "id": "stk_048",
+      "file": "playful_cat_cold_shoulder_stk_048.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "被冷落",
+        "委屈",
+        "不理我"
+      ],
+      "scene": [
+        "对象不理人",
+        "求关注"
+      ],
+      "reply_mode": "solo",
+      "description": "被冷落委屈猫1"
+    },
+    {
+      "id": "stk_049",
+      "file": "playful_cat_ignored_sad_stk_049.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "不理我",
+        "难过",
+        "哼"
+      ],
+      "scene": [
+        "被忽略",
+        "撒娇求关注"
+      ],
+      "reply_mode": "solo",
+      "description": "被冷落委屈猫2"
+    },
+    {
+      "id": "stk_050",
+      "file": "playful_cat_sassy_pout_stk_050.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "傲娇",
+        "嘟嘴",
+        "冷落"
+      ],
+      "scene": [
+        "傲娇撒娇",
+        "装生气"
+      ],
+      "reply_mode": "either",
+      "description": "被冷落委屈猫3"
+    },
+    {
+      "id": "stk_051",
+      "file": "playful_cat_neglected_stk_051.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "被忽视",
+        "委屈巴巴",
+        "求安慰"
+      ],
+      "scene": [
+        "求安慰",
+        "被对象冷落"
+      ],
+      "reply_mode": "solo",
+      "description": "被冷落委屈猫4"
+    },
+    {
+      "id": "stk_052",
+      "file": "playful_cat_sulky_face_stk_052.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "闹脾气",
+        "不开心",
+        "哄我"
+      ],
+      "scene": [
+        "闹小脾气",
+        "让对方哄"
+      ],
+      "reply_mode": "solo",
+      "description": "被冷落委屈猫5"
+    },
+    {
+      "id": "stk_053",
+      "file": "playful_cat_drama_queen_stk_053.jpg",
+      "emotion": "playful",
+      "intensity": "strong",
+      "tags": [
+        "戏精",
+        "夸张",
+        "委屈"
+      ],
+      "scene": [
+        "夸张委屈",
+        "戏精上身"
+      ],
+      "reply_mode": "either",
+      "description": "被冷落委屈猫6"
+    },
+    {
+      "id": "stk_054",
+      "file": "playful_cat_attention_seek_stk_054.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "求关注",
+        "看我",
+        "撒娇"
+      ],
+      "scene": [
+        "求关注",
+        "撒娇要人陪"
+      ],
+      "reply_mode": "solo",
+      "description": "被冷落委屈猫7"
+    },
+    {
+      "id": "stk_055",
+      "file": "playful_cat_give_attention_stk_055.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "理我",
+        "陪我",
+        "无聊"
+      ],
+      "scene": [
+        "要人陪",
+        "对象不理人"
+      ],
+      "reply_mode": "either",
+      "description": "被冷落委屈猫8"
+    },
+    {
+      "id": "stk_056",
+      "file": "encouraging_cat_cheer_stk_056.jpg",
+      "emotion": "encouraging",
+      "intensity": "high",
+      "tags": [
+        "加油",
+        "考试",
+        "鼓励",
+        "通过"
+      ],
+      "scene": [
+        "鼓励对方考试",
+        "为对方加油"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪祝你考试通过加油鼓励"
+    },
+    {
+      "id": "stk_057",
+      "file": "encouraging_cat_believe_stk_057.jpg",
+      "emotion": "encouraging",
+      "intensity": "high",
+      "tags": [
+        "相信你",
+        "鼓励",
+        "支持"
+      ],
+      "scene": [
+        "鼓励对方",
+        "表达信任"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪相信你一定行"
+    },
+    {
+      "id": "stk_058",
+      "file": "encouraging_cat_fighting_stk_058.jpg",
+      "emotion": "encouraging",
+      "intensity": "medium",
+      "tags": [
+        "加油",
+        "fighting",
+        "冲鸭"
+      ],
+      "scene": [
+        "鼓励加油",
+        "打气"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪fighting加油打气"
+    },
+    {
+      "id": "stk_059",
+      "file": "encouraging_cat_youcan_stk_059.jpg",
+      "emotion": "encouraging",
+      "intensity": "medium",
+      "tags": [
+        "你可以的",
+        "鼓励",
+        "支持"
+      ],
+      "scene": [
+        "安慰鼓励",
+        "对方不自信时"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪说你可以的"
+    },
+    {
+      "id": "stk_060",
+      "file": "encouraging_cat_luck_stk_060.jpg",
+      "emotion": "encouraging",
+      "intensity": "medium",
+      "tags": [
+        "好运",
+        "祝福",
+        "顺利"
+      ],
+      "scene": [
+        "祝对方好运",
+        "祝福"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪祝你好运顺利"
+    },
+    {
+      "id": "stk_061",
+      "file": "encouraging_cat_hug_stk_061.jpg",
+      "emotion": "encouraging",
+      "intensity": "high",
+      "tags": [
+        "抱抱",
+        "安慰",
+        "辛苦了"
+      ],
+      "scene": [
+        "安慰对方",
+        "对方辛苦时"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪抱抱安慰辛苦了"
+    },
+    {
+      "id": "stk_062",
+      "file": "playful_cat_work_slack_stk_062.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "摸鱼",
+        "上班",
+        "打工人"
+      ],
+      "scene": [
+        "上班摸鱼",
+        "工作划水"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪上班摸鱼打工人"
+    },
+    {
+      "id": "stk_063",
+      "file": "playful_cat_work_tired_stk_063.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "累了",
+        "下班",
+        "打工人"
+      ],
+      "scene": [
+        "工作太累",
+        "想下班"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪打工太累想下班"
+    },
+    {
+      "id": "stk_064",
+      "file": "playful_cat_work_money_stk_064.jpg",
+      "emotion": "playful",
+      "intensity": "high",
+      "tags": [
+        "搞钱",
+        "赚钱",
+        "打工"
+      ],
+      "scene": [
+        "谈工作赚钱",
+        "搞钱动力"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪搞钱赚钱动力"
+    },
+    {
+      "id": "stk_065",
+      "file": "playful_cat_work_pretend_stk_065.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "装忙",
+        "假装工作",
+        "摸鱼"
+      ],
+      "scene": [
+        "假装在工作",
+        "摸鱼被发现"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪假装工作其实在摸鱼"
+    },
+    {
+      "id": "stk_066",
+      "file": "playful_cat_work_quit_stk_066.jpg",
+      "emotion": "playful",
+      "intensity": "high",
+      "tags": [
+        "不干了",
+        "辞职",
+        "躺平"
+      ],
+      "scene": [
+        "不想上班",
+        "想辞职"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪不干了想辞职躺平"
+    },
+    {
+      "id": "stk_067",
+      "file": "playful_cat_work_overtime_stk_067.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "加班",
+        "打工人",
+        "苦逼"
+      ],
+      "scene": [
+        "吐槽加班",
+        "工作辛苦"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪加班打工人苦逼"
+    },
+    {
+      "id": "stk_068",
+      "file": "playful_cat_work_friday_stk_068.jpg",
+      "emotion": "playful",
+      "intensity": "high",
+      "tags": [
+        "周五",
+        "下班",
+        "开心"
+      ],
+      "scene": [
+        "周五下班",
+        "终于放假"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪周五下班开心"
+    },
+    {
+      "id": "stk_069",
+      "file": "positive_cat_happy_stk_069.jpg",
+      "emotion": "positive",
+      "intensity": "high",
+      "tags": [
+        "开心",
+        "高兴",
+        "好耶"
+      ],
+      "scene": [
+        "表达开心",
+        "收到好消息"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪开心高兴好耶"
+    },
+    {
+      "id": "stk_070",
+      "file": "playful_cat_smug_stk_070.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "得意",
+        "嘚瑟",
+        "骄傲"
+      ],
+      "scene": [
+        "炫耀",
+        "得意洋洋"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪得意嘚瑟表情"
+    },
+    {
+      "id": "stk_071",
+      "file": "negative_cat_sad_stk_071.jpg",
+      "emotion": "negative",
+      "intensity": "medium",
+      "tags": [
+        "难过",
+        "伤心",
+        "委屈"
+      ],
+      "scene": [
+        "表达难过",
+        "受委屈"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪难过伤心委屈"
+    },
+    {
+      "id": "stk_072",
+      "file": "playful_cat_shocked_stk_072.jpg",
+      "emotion": "playful",
+      "intensity": "high",
+      "tags": [
+        "震惊",
+        "惊讶",
+        "什么"
+      ],
+      "scene": [
+        "听到惊讶消息",
+        "不敢相信"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪震惊惊讶表情"
+    },
+    {
+      "id": "stk_073",
+      "file": "negative_cat_angry_stk_073.jpg",
+      "emotion": "negative",
+      "intensity": "medium",
+      "tags": [
+        "生气",
+        "哼",
+        "不开心"
+      ],
+      "scene": [
+        "生气了",
+        "不高兴"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪生气哼不开心"
+    },
+    {
+      "id": "stk_074",
+      "file": "positive_cat_love_stk_074.jpg",
+      "emotion": "positive",
+      "intensity": "high",
+      "tags": [
+        "爱你",
+        "喜欢",
+        "比心"
+      ],
+      "scene": [
+        "表达喜欢",
+        "撒娇"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪爱你比心喜欢"
+    },
+    {
+      "id": "stk_075",
+      "file": "playful_cat_sleepy_stk_075.jpg",
+      "emotion": "playful",
+      "intensity": "low",
+      "tags": [
+        "困了",
+        "想睡",
+        "晚安"
+      ],
+      "scene": [
+        "困了想睡",
+        "说晚安"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪困了想睡觉晚安"
+    },
+    {
+      "id": "stk_076",
+      "file": "positive_cat_thank_stk_076.jpg",
+      "emotion": "positive",
+      "intensity": "medium",
+      "tags": [
+        "谢谢",
+        "感谢",
+        "感恩"
+      ],
+      "scene": [
+        "表达感谢",
+        "收到帮助"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪谢谢感谢表情"
+    },
+    {
+      "id": "stk_077",
+      "file": "negative_cat_cry_stk_077.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "哭了",
+        "大哭",
+        "呜呜"
+      ],
+      "scene": [
+        "很难过大哭",
+        "委屈哭泣"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪大哭呜呜委屈"
+    },
+    {
+      "id": "stk_078",
+      "file": "playful_cat_wink_stk_078.jpg",
+      "emotion": "playful",
+      "intensity": "medium",
+      "tags": [
+        "眨眼",
+        "调皮",
+        "嘿嘿"
+      ],
+      "scene": [
+        "调皮捣蛋",
+        "暗示"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪眨眼调皮嘿嘿"
+    },
+    {
+      "id": "stk_079",
+      "file": "grateful_cat_selflove_stk_079.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "谢谢自己",
+        "自爱",
+        "感恩"
+      ],
+      "scene": [
+        "感谢自己",
+        "自我肯定"
+      ],
+      "reply_mode": "solo",
+      "description": "复古猫咪感谢自己"
+    },
+    {
+      "id": "stk_080",
+      "file": "grateful_cat_selflove_stk_080.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "辛苦了",
+        "感恩",
+        "自我鼓励"
+      ],
+      "scene": [
+        "鼓励自己",
+        "自我感谢"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪说辛苦了"
+    },
+    {
+      "id": "stk_081",
+      "file": "grateful_cat_selflove_stk_081.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "谢谢",
+        "感激",
+        "暖心"
+      ],
+      "scene": [
+        "表达感谢",
+        "温暖回应"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪表达感激"
+    },
+    {
+      "id": "stk_082",
+      "file": "grateful_cat_selflove_stk_082.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "爱自己",
+        "感恩",
+        "治愈"
+      ],
+      "scene": [
+        "自我关爱",
+        "治愈时刻"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪爱自己"
+    },
+    {
+      "id": "stk_083",
+      "file": "grateful_cat_selflove_stk_083.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "棒棒的",
+        "感恩",
+        "鼓励"
+      ],
+      "scene": [
+        "夸奖自己",
+        "自我肯定"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪夸自己棒"
+    },
+    {
+      "id": "stk_084",
+      "file": "grateful_cat_thankyou_stk_084.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "谢谢搭子",
+        "感谢朋友",
+        "友情"
+      ],
+      "scene": [
+        "感谢朋友",
+        "搭子互动"
+      ],
+      "reply_mode": "solo",
+      "description": "感谢搭子陪伴"
+    },
+    {
+      "id": "stk_085",
+      "file": "grateful_cat_thankyou_stk_085.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "有你真好",
+        "感恩",
+        "友谊"
+      ],
+      "scene": [
+        "感谢陪伴",
+        "友情表达"
+      ],
+      "reply_mode": "solo",
+      "description": "有你真好"
+    },
+    {
+      "id": "stk_086",
+      "file": "grateful_cat_thankyou_stk_086.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "谢谢你",
+        "暖心",
+        "感动"
+      ],
+      "scene": [
+        "表达感谢",
+        "回应帮助"
+      ],
+      "reply_mode": "solo",
+      "description": "谢谢你帮我"
+    },
+    {
+      "id": "stk_087",
+      "file": "grateful_cat_thankyou_stk_087.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "感恩遇见",
+        "缘分",
+        "珍惜"
+      ],
+      "scene": [
+        "感恩相遇",
+        "珍惜关系"
+      ],
+      "reply_mode": "solo",
+      "description": "感恩遇见你"
+    },
+    {
+      "id": "stk_088",
+      "file": "grateful_cat_thankyou_stk_088.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "比心",
+        "感谢",
+        "爱你"
+      ],
+      "scene": [
+        "表达爱意",
+        "感谢回应"
+      ],
+      "reply_mode": "solo",
+      "description": "比心感谢"
+    },
+    {
+      "id": "stk_089",
+      "file": "grateful_cat_thankyou_stk_089.jpg",
+      "emotion": "grateful",
+      "intensity": "medium",
+      "tags": [
+        "超感谢",
+        "开心",
+        "满足"
+      ],
+      "scene": [
+        "收到帮助",
+        "感谢回复"
+      ],
+      "reply_mode": "solo",
+      "description": "超级感谢"
+    },
+    {
+      "id": "stk_090",
+      "file": "disgusted_cat_sarcasm_stk_090.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "阴阳怪气",
+        "嫌弃",
+        "白眼"
+      ],
+      "scene": [
+        "同事阴阳",
+        "被嫌弃"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪阴阳怪气"
+    },
+    {
+      "id": "stk_091",
+      "file": "disgusted_cat_sarcasm_stk_091.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "无语",
+        "翻白眼",
+        "受不了"
+      ],
+      "scene": [
+        "无语瞬间",
+        "受够了"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪翻白眼"
+    },
+    {
+      "id": "stk_092",
+      "file": "disgusted_cat_sarcasm_stk_092.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "嫌弃",
+        "嘲讽",
+        "冷笑"
+      ],
+      "scene": [
+        "嫌弃对方",
+        "讽刺回应"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嫌弃脸"
+    },
+    {
+      "id": "stk_093",
+      "file": "disgusted_cat_sarcasm_stk_093.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "呵呵",
+        "假笑",
+        "敷衍"
+      ],
+      "scene": [
+        "敷衍回应",
+        "假装客气"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪假笑呵呵"
+    },
+    {
+      "id": "stk_094",
+      "file": "disgusted_cat_sarcasm_stk_094.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "切",
+        "不屑",
+        "鄙视"
+      ],
+      "scene": [
+        "不屑一顾",
+        "看不上"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪不屑"
+    },
+    {
+      "id": "stk_095",
+      "file": "disgusted_cat_sarcasm_stk_095.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "真会装",
+        "做作",
+        "虚伪"
+      ],
+      "scene": [
+        "吐槽做作",
+        "看穿虚伪"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪吐槽装"
+    },
+    {
+      "id": "stk_096",
+      "file": "disgusted_cat_sarcasm_stk_096.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "奇葩",
+        "无力吐槽",
+        "服了"
+      ],
+      "scene": [
+        "遇到奇葩",
+        "无力吐槽"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪服了"
+    },
+    {
+      "id": "stk_097",
+      "file": "disgusted_cat_sarcasm_stk_097.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "笑死",
+        "嘲笑",
+        "讥讽"
+      ],
+      "scene": [
+        "嘲讽对方",
+        "看笑话"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嘲笑"
+    },
+    {
+      "id": "stk_098",
+      "file": "disgusted_cat_sarcasm_stk_098.jpg",
+      "emotion": "disgusted",
+      "intensity": "medium",
+      "tags": [
+        "滚",
+        "烦死了",
+        "别烦我"
+      ],
+      "scene": [
+        "不想理人",
+        "烦躁回应"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪说滚"
+    },
+    {
+      "id": "stk_099",
+      "file": "negative_cat_crying_stk_099.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "呜呜呜",
+        "哭了",
+        "委屈"
+      ],
+      "scene": [
+        "委屈大哭",
+        "伤心时刻"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪呜呜哭"
+    },
+    {
+      "id": "stk_100",
+      "file": "negative_cat_crying_stk_100.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "好难过",
+        "伤心",
+        "心碎"
+      ],
+      "scene": [
+        "难过心碎",
+        "失落时刻"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪好难过"
+    },
+    {
+      "id": "stk_101",
+      "file": "negative_cat_crying_stk_101.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "哭哭",
+        "泪目",
+        "感动哭"
+      ],
+      "scene": [
+        "感动落泪",
+        "泪目瞬间"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪泪目"
+    },
+    {
+      "id": "stk_102",
+      "file": "negative_cat_crying_stk_102.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "好委屈",
+        "被骂了",
+        "不开心"
+      ],
+      "scene": [
+        "被批评",
+        "受委屈"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪好委屈"
+    },
+    {
+      "id": "stk_103",
+      "file": "negative_cat_crying_stk_103.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "哭唧唧",
+        "撒娇哭",
+        "求安慰"
+      ],
+      "scene": [
+        "撒娇求抱",
+        "求安慰"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪哭唧唧"
+    },
+    {
+      "id": "stk_104",
+      "file": "negative_cat_crying_stk_104.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "破防了",
+        "绷不住",
+        "泪崩"
+      ],
+      "scene": [
+        "情绪崩溃",
+        "绷不住了"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪破防了"
+    },
+    {
+      "id": "stk_105",
+      "file": "negative_cat_crying_stk_105.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "想哭",
+        "压力大",
+        "崩溃"
+      ],
+      "scene": [
+        "压力大哭",
+        "扛不住了"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪想哭"
+    },
+    {
+      "id": "stk_106",
+      "file": "negative_cat_crying_stk_106.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "痛哭",
+        "大哭",
+        "嚎啕"
+      ],
+      "scene": [
+        "嚎啕大哭",
+        "极度伤心"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪嚎啕大哭"
+    },
+    {
+      "id": "stk_107",
+      "file": "negative_cat_crying_stk_107.jpg",
+      "emotion": "negative",
+      "intensity": "high",
+      "tags": [
+        "难受",
+        "心酸",
+        "苦涩"
+      ],
+      "scene": [
+        "心酸难受",
+        "苦涩时刻"
+      ],
+      "reply_mode": "solo",
+      "description": "猫咪心酸难受"
+    }
+  ]
+}
